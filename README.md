@@ -67,30 +67,6 @@ Antes de começar, certifique-se de ter instalado:
 - **Git** para controle de versão
 - Acesso à internet para integração com Lumi SDK
 
-## 🚀 Instalação
-
-### 1. Clone o repositório
-```bash
-git clone https://github.com/seu-usuario/sistema-vagas-rh.git
-cd sistema-vagas-rh
-```
-
-### 2. Instale as dependências
-```bash
-npm install
-# ou
-yarn install
-```
-
-### 3. Configure o ambiente
-O projeto utiliza o Lumi SDK que já está configurado no arquivo `src/lib/lumi.ts`. Não é necessária configuração adicional.
-
-### 4. Inicie o servidor de desenvolvimento
-```bash
-npm run dev
-# ou
-yarn dev
-```
 
 ### 5. Acesse a aplicação
 Abra seu navegador e acesse: `(https://hr-vacancy-manager.lumi.ing)`
@@ -237,49 +213,7 @@ npm run lint         # Executa verificação de código
 - [ ] API REST para integrações
 - [ ] Testes automatizados
 
-## 📸 Capturas de Tela
 
-### Lista de Vagas
-![Lista de Vagas](https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?w=800)
-
-### Criar Nova Vaga
-![Criar Vaga](https://images.pexels.com/photos/3184419/pexels-photo-3184419.jpeg?w=800)
-
-### Detalhes da Vaga
-![Detalhes](https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?w=800)
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Para contribuir:
-
-### 1. Fork o projeto
-```bash
-git clone https://github.com/seu-usuario/sistema-vagas-rh.git
-```
-
-### 2. Crie uma branch para sua feature
-```bash
-git checkout -b feature/nova-funcionalidade
-```
-
-### 3. Commit suas mudanças
-```bash
-git commit -m "Adiciona nova funcionalidade"
-```
-
-### 4. Push para a branch
-```bash
-git push origin feature/nova-funcionalidade
-```
-
-### 5. Abra um Pull Request
-
-### Diretrizes de Contribuição
-- Use TypeScript para novos componentes
-- Siga os padrões de código existentes
-- Adicione comentários em código complexo
-- Teste suas mudanças antes de submeter
-- Mantenha commits pequenos e focados
 
 ## 🚀 Deploy
 
@@ -335,25 +269,4 @@ npm run lint
 - Verifique Network tab para requisições
 - Use React DevTools para debug de componentes
 
-## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-## 👥 Equipe
-
-- **Desenvolvedor Principal**: [Seu Nome]
-- **Email**: seu.email@empresa.com
-- **LinkedIn**: [Seu LinkedIn]
-
-## 🙏 Agradecimentos
-
-- [Lumi Platform](https://lumi.new/) pela excelente SDK
-- [Tailwind CSS](https://tailwindcss.com/) pelo framework CSS
-- [React](https://reactjs.org/) pela biblioteca de interface
-- [Lucide](https://lucide.dev/) pelos ícones modernos
-
----
-
-**⭐ Se este projeto foi útil, considere dar uma estrela no GitHub!**
