@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22059364/README.md)
 
 # 🏢 Sistema de Gerenciamento de Vagas de RH
 
@@ -94,7 +93,7 @@ yarn dev
 ```
 
 ### 5. Acesse a aplicação
-Abra seu navegador e acesse: `https://hr-vacancy-manager.lumi.ing`
+Abra seu navegador e acesse: `http://localhost:5173`
 
 ## 🎯 Como Usar
 
