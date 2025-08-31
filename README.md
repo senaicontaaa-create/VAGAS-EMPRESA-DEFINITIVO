@@ -92,7 +92,7 @@ npm run dev
 yarn dev
 ```
 ### 5. Acesse a aplicação
-Abra seu navegador e acesse: `(https://hr-vacancy-manager.lumi.ing)`
+Abra seu navegador e acesse: `(https://hr-vacancy-manager.lumi.ing)` ou 'http://localhost:5173'
 
 ## 🎯 Como Usar
 
